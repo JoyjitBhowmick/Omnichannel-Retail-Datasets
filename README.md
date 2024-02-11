@@ -154,11 +154,8 @@ between 10 am - 6 pm, and most online orders are placed on Fridays and weekends.
 
 
 ## References
-[1] B. Aull, B. Coggins, S. Kohli, and E. Marohn. The state of grocery in north america.
-McKinsey & Company, 2022. https://www.mckinsey.com/industries/retail/our-insights/
-the-state-of-grocery-in-north-america-2022#/.
-[2] Karen B.G. Here’s the best time to go to the grocery store—and the worst. Today, 2017. https://www.today.
-com/food/best-time-go-grocery-store-worst-t108655, Accessed: 8 Feb. 2024.
+[1] B. Aull, B. Coggins, S. Kohli, and E. Marohn. The state of grocery in north America. McKinsey & Company, 2022. https://www.mckinsey.com/industries/retail/our-insights/the-state-of-grocery-in-north-america-2022#/  
+[2] Karen B.G. Here’s the best time to go to the grocery store—and the worst. Today, 2017. https://www.today.com/food/best-time-go-grocery-store-worst-t108655, Accessed: 8 Feb. 2024.  
 [3] J. Bhowmick, S. Köhler, G. Fischer, M. Padhy, K. Furmans, and J. Pazour. Reimagining the store of the future:
 Evaluating facility designs. In IIE Annual Conference. Proceedings, pages 1–6. Institute of Industrial and
 Systems Engineers (IISE), 2023.
