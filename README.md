@@ -1,8 +1,9 @@
 # Usage of The Data Sets
 The data sets are intended for research purposes and can be used for any non-commercial use. We only request you cite our work as follows - 
 
+<span style="color:red;">Publication Status: Submitted.</span>
 ```
-Joyjit Bhowmick and Jennifer Pazour. A Connected In-Store and Online Customer Data Set for Omnichannel Retail Logistics Research. In IIE Annual Conference. Proceedings, pages 1–6. Institute of Industrial and Systems Engineers (IISE), 2024.
+Joyjit Bhowmick and Jennifer Pazour. A Connected In-Store and Online Customer Data Set for Omnichannel Retail Logistics Research.   In IIE Annual Conference. Proceedings, pages 1–6. Institute of Industrial and Systems Engineers (IISE), 2024.
 ```
 
 
