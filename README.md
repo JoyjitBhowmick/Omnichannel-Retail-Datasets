@@ -153,3 +153,75 @@ similar patterns compared to in-store customer arrivals. Further analysis shows 
 between 10 am - 6 pm, and most online orders are placed on Fridays and weekends.
 
 
+## References
+[1] B. Aull, B. Coggins, S. Kohli, and E. Marohn. The state of grocery in north america.
+McKinsey & Company, 2022. https://www.mckinsey.com/industries/retail/our-insights/
+the-state-of-grocery-in-north-america-2022#/.
+[2] Karen B.G. Here’s the best time to go to the grocery store—and the worst. Today, 2017. https://www.today.
+com/food/best-time-go-grocery-store-worst-t108655, Accessed: 8 Feb. 2024.
+[3] J. Bhowmick, S. Köhler, G. Fischer, M. Padhy, K. Furmans, and J. Pazour. Reimagining the store of the future:
+Evaluating facility designs. In IIE Annual Conference. Proceedings, pages 1–6. Institute of Industrial and
+Systems Engineers (IISE), 2023.
+[4] Brick Meets Clicks. Online grocery shopping surges to record levels in us during covid-19 crisis,
+Mar 2020. https://www.foodlogistics.com/transportation/press-release/21125307/
+brick-meets-click-online-grocery-shopping-surges-to-record-levels-in-us-during-covid19\
+-crisis.
+[5] Y.J. Cai and C.K.Y. Lo. Omni-channel management in the new retailing era: A systematic review and future
+research agenda. International Journal of Production Economics, 229:107729, 2020.
+[6] I. Dayarian and J. Pazour. Crowdsourced order-fulfillment policies using in-store customers. Production and
+Operations Management, 31(11):4075–4094, 2022.
+[7] T. Flamand, A. Ghoniem, and B. Maddah. Promoting impulse buying by allocating retail shelf space to grouped
+product categories. Journal of the Operational Research Society, 67(7):953–969, 2016.
+[8] S. LK Freichel and J.K. Wörtge. Facility design in omni-channel retail–a logistics point of view. Business
+Logistics in Modern Management, 2018.
+[9] P. Gaffney. Is $4.2 billion reasonable? how to evaluate instacart’s valuation. https://www.toptal.com/
+finance/valuation/instacart-valuation, Accessed: 8 Feb. 2024.
+[10] M. Hu, X. Xu, W. Xue, and Y. Yang. Demand pooling in omnichannel operations. Management Science, 68(2):
+883–894, 2022.
+[11] A. Hübner, J. Hense, and C. Dethlefs. The revival of retail stores via omnichannel operations: A literature review
+and research framework. European Journal of Operational Research, 302(3):799–818, 2022.
+[12] S.K. Hui, E.T. Bradlow, and P.S. Fader. Testing behavioral hypotheses using an integrated model of grocery store
+shopping path and purchase behavior. Journal of Consumer Research, 36(3):478–493, 2009.
+[13] Instacart. The instacart online grocery shopping dataset 2017. https://www.kaggle.com/c/
+instacart-market-basket-analysis, 2017. Accessed: 27 Jan. 2021.
+[14] I.C. Jung and Y.S. Kwon. Grocery customer behavior analysis using rfid-based shopping paths data. World
+Academy of Science, Engineering and Technology, 59:2011, 2011.
+[15] S. Köhler, F. Rauscher, G. Fischer, K. Furmans, J. Bhowmick, and J. Pazour. Simulation modelling framework
+for instore logistical processes in an omnichannel environment. In IIE Annual Conference. Proceedings, pages
+1–6. Institute of Industrial and Systems Engineers (IISE), 2023.
+[16] D.T. Kollat and R.P.Willett. Customer impulse purchasing behavior. Journal of Marketing Research, 4(1):21–31,
+1967.
+[17] M. Nambi, C. Mitash, F. Wang. Amazon releases largest dataset for
+training "pick and place" robots. https://www.amazon.science/blog/
+amazon-releases-largest-dataset-for-training-pick-and-place-robots., 2023.
+[18] N. Meyersohn. Why stores always put candy and soda near the cash register. CNN Business, 2022. https:
+//www.cnn.com/2022/05/21/business/impulse-shopping-stores/, Accessed: 8 Feb. 2024.
+[19] T. Ozbun. Online grocery shopping sales in the united states from 2019 to 2024. Statista, 2022.
+[20] T. Ozbun. Number of supermarket stores in the united states from 2011 to 2018, by format. Statista, 2022.
+[21] J. Peng, C. Xiao, and Y. Li. Rp2k: A large-scale retail product dataset for fine-grained image classification. arXiv
+preprint arXiv:2006.12634, 2020.
+[22] A. Risberg. A systematic literature review on e-commerce logistics: Towards an e-commerce and omni-channel
+decision framework. The International Review of Retail, Distribution and Consumer Research, 33(1):67–91,
+2023.
+[23] H. Shen, F. Namdarpour, and J. Lin. Investigation of online grocery shopping and delivery preference before,
+during, and after covid-19. Transportation Research Interdisciplinary Perspectives, 14:100580, 2022.
+[24] H. Sorensen, S. Bogomolova, K. Anderson, G. Trinh, A. Sharp, R. Kennedy, B. Page, and M. Wright. Fundamental
+patterns of in-store shopper behavior. Journal of Retailing and Consumer Services, 37:182–194, 2017.
+[25] M.A. Syaekhoni, C. Lee, and Y.S. Kwon. Analyzing customer behavior from shopping path data using operation
+edit distance. Applied Intelligence, 48:1912–1932, 2018.
+[26] T. ozbun. Number of weekly customer visits to walmart stores worldwide from fiscal year 2017 to 2023.
+[27] ˙I. Tanriverdi and H. Aydın. A bibliometric review of the omnichannel logistics literature. The International
+Review of Retail, Distribution and Consumer Research, pages 1–21, 2023.
+[28] H. Tomas, M. Reyes, R. Dionido, M. Ty, J. Mirando, J. Casimiro, R. Atienza, and R. Guinto. Goo: A dataset for
+gaze object prediction in retail environments. In Proceedings of the IEEE/CVF Conference on Computer Vision
+and Pattern Recognition, pages 3125–3133, 2021.
+[29] F. Von Briel. The future of omnichannel retail: A four-stage delphi study. Technological Forecasting and Social
+Change, 132:217–229, 2018.
+[30] Walmart. Where in the world is walmart? Walmart. https://corporate.walmart.com/about/
+location-facts, Accessed: 8 Feb. 2024.
+[31] L.Wolf and M. Steul-Fischer. Factors of customers’ channel choice in an omnichannel environment: a systematic
+literature review. Management Review Quarterly, 73(4):1579–1630, 2023.
+[32] H. Zhang, D. Li, Y. Ji, H. Zhou,W.Wu, and K. Liu. Toward new retail: A benchmark dataset for smart unmanned
+vending machines. IEEE Transactions on Industrial Informatics, 16(12):7722–7731, 2019.
+
+
