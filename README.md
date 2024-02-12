@@ -5,7 +5,7 @@ The data sets are intended for research purposes and can be used for any non-com
 Joyjit Bhowmick and Jennifer Pazour. A Connected In-Store and Online Customer Data Set for Omnichannel Retail Logistics Research.   In IIE Annual Conference. Proceedings, pages 1–6. Institute of Industrial and Systems Engineers (IISE), 2024.
 ```
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Publication status: Submitted`
-Please note the above publication is in submitted status. This document will continue to provide updates
+Please note the above publication is in submitted status. Updates will be added about the publication status as soon as it changes.
 
 ## Introduction
 We present four datasets and describe the methodology used to create these datasets along with supplementary source datasets and Python codes from which the four datasets were developed. The key idea behind the datasets is to connect them in terms of a group of products with similarities, which we denote as ’Product Families’. For instance, soy milk, almond milk, skim milk, whole milk, etc. are grouped into one product family named ’Milk.’ This allows us to organize data and make connections across in-store and online customer channels and among multiple data sources. Also, because individual products change frequently in grocery stores, but the product families tend to have similar characteristics, this allows for a more manageable data unit than gathering data at the individual item levels. Our datasets include -  
