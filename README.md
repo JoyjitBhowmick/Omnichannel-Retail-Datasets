@@ -6,7 +6,9 @@ Joyjit Bhowmick and Jennifer Pazour. A Connected In-Store and Online Customer Da
 ```
 <font color="red"> Please note the above publication is in submitted status. This document will continue to provide updates.</font>
 
-
+```diff
+- text in red
+```
 
 ## Introduction
 We present four datasets and describe the methodology used to create these datasets along with supplementary source datasets and Python codes from which the four datasets were developed. The key idea behind the datasets is to connect them in terms of a group of products with similarities, which we denote as ’Product Families’. For instance, soy milk, almond milk, skim milk, whole milk, etc. are grouped into one product family named ’Milk.’ This allows us to organize data and make connections across in-store and online customer channels and among multiple data sources. Also, because individual products change frequently in grocery stores, but the product families tend to have similar characteristics, this allows for a more manageable data unit than gathering data at the individual item levels. Our datasets include -  
