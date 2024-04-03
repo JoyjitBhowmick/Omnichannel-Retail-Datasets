@@ -20,6 +20,7 @@ Joyjit Bhowmick and Jennifer Pazour. A Connected In-Store and Online Customer Da
 
 
 ![#FFFF00](https://placehold.co/15x15/FFFF00/FFFF00.png) `Publication status: Accepted, waiting to be published`
+As soon as the paper is published, the status will be updated.
 
 
 ## Introduction
