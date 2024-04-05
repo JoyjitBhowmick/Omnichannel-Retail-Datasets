@@ -1,4 +1,4 @@
-﻿Aisle ID,Product Ffamily,In-store customers’ purchase percentage ,Online customers' purchase percentage,Discrete probability distribution for in-store customers,Discrete probability distribution for online customers,Impulse purchase rate,"Emotional product? 1=Yes, 0=No",Average daily demand (in-store) ,Average daily demand (online) ,Dwell time (seconds)
+﻿Aisle ID,Product family,In-store customers’ purchase percentage ,Online customers' purchase percentage,Discrete probability distribution for in-store customers,Discrete probability distribution for online customers,Impulse purchase rate,"Emotional product? 1=Yes, 0=No",Average daily demand (in-store) ,Average daily demand (online) ,Dwell time (seconds)
 1,prepared soups salads,12.70%,1.99%,1.00%,0.26%,21.00%,0,415,3.564274227,18
 2,specialty cheeses,38.00%,2.70%,3.00%,0.36%,4.00%,0,1241,4.836202731,18
 3,energy granola bars,5.30%,8.41%,0.42%,1.12%,32.00%,0,173,15.04396793,36
