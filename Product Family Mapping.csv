@@ -1,0 +1,135 @@
+Aisle ID,Zone ID,Zone ID alternatives,Product family
+1,27,,Prepared soups salads
+2,83,"38, 39, 82, 83",Specialty cheeses
+3,19,"19, 94",Energy granola bars
+4,29,"29, 95",Instant foods
+5,24,"24, 25, 26",Marinades meat preparation
+6,74,"74, 88, 91, 92",Other
+7,32,,Packaged meat
+8,51,,Bakery desserts
+9,14,"14, 30",Pasta sauce
+10,61,,Kitchen supplies
+11,88,"74, 88, 91, 92",Cold flu allergy
+12,95,"29, 95",Fresh pasta
+13,12,,Prepared meals
+14,54,,Tofu meat alternatives
+15,54,"54, 56",Packaged seafood
+16,3,"3, 4, 5",Fresh herbs
+17,18,"18, 24, 25, 26, 27",Baking ingredients
+18,20,"20, 95",Bulk dried fruits vegetables
+19,27,,Oils vinegars
+20,87,"87, 90, 91, 92",Oral hygiene
+21,38,"38, 39, 82, 83",Packaged cheese
+22,90,"87, 90, 91, 92",Hair care
+23,62,"62, 63, 63, 92",Popcorn jerky
+24,4,"2, 4",Fresh fruits
+25,91,"87, 90, 91, 92",Soap
+26,50,,Coffee
+27,62,"62, 63, 93",Beers coolers
+28,28,"28, 29",Red wines
+29,24,"18, 24, 25, 26, 27",Honeys syrups nectars
+30,25,"24, 25, 26",Latino foods
+31,52,"52, 53, 94",Refrigerated
+32,4,"2, 4",Packaged produce
+33,30,,Kosher foods
+34,31,"31, 35",Frozen meat seafood
+35,35,"31, 35",Poultry counter
+36,39,"38, 39, 82, 83",Butter
+37,58,"58, 93",Ice cream ice
+38,35,"31, 35",Frozen meals
+39,56,"54, 56",Seafood counter
+40,60,"60, 65, 66, 67",Dog food care
+41,65,"60, 65, 66, 67",Cat food care
+42,55,"55, 56",Frozen vegan vegetarian
+43,52,"52, 53, 61, 93",Buns rolls
+44,91,"74, 88, 91, 92",Eye ear care
+45,94,"19, 94",Candy chocolate
+46,60,"60, 91, 92",Mint gum
+47,92,"74, 88, 91, 92",Vitamins supplements
+48,94,"19, 94",Breakfast bars pastries
+49,35,"31, 35",Packaged poultry
+50,64,"62, 63, 63, 92",Fruit vegetable snacks
+51,25,"24, 25, 26",Preserved dips spreads
+52,8,"8, 10",Frozen breakfast
+53,83,"38, 39, 82, 83",Cream
+54,37,"37, 77",Paper goods
+55,92,"87, 90, 91, 92",Shave needs
+56,71,"71, 72",Diapers wipes
+57,94,"19, 94",Granola
+58,52,"52, 53, 73",Frozen breads doughs
+59,43,"43, 47",Canned meals beans
+60,68,,Trash bags liners
+61,18,"18, 44, 45, 46, 47, 93",Cookies cakes
+62,29,"28, 29",White wines
+63,42,,Grains rice dried goods
+64,53,"52, 53, 94",Energy sports drinks
+65,49,,Protein meal replacements
+66,25,"24, 25, 26",Asian foods
+67,26,"24, 25, 26",Fresh dips tapenades
+68,42,,Bulk grains rice dried goods
+69,44,"44, 71",Soup broth bouillon
+70,91,"74, 88, 91, 92",Digestion
+71,25,,Refrigerated pudding desserts
+72,26,"24, 25, 26",Condiments
+73,86,,Facial care
+74,78,"78, 79",Dish detergents
+75,78,"78, 79",Laundry
+76,26,"24, 25, 26",Indian foods
+77,53,"52, 53, 94",Soft drinks
+78,44,"18, 44, 45, 46, 47, 93",Crackers
+79,55,"55, 56",Frozen pizza
+80,86,,Deodorants
+81,54,,Canned jarred vegetables
+82,72,"71, 72",Baby accessories
+83,4,"3, 4, 5",Fresh vegetables
+84,38,,Milk
+85,68,,Food storage
+86,36,,Eggs
+87,69,"69, 70",More household
+88,48,"48, 61",Spreads
+89,16,"16, 26, 46, 95",Salad dressing toppings
+90,49,,Cocoa drink mixes
+91,51,,Soy lactosefree
+92,71,,Baby food formula
+93,53,"52, 53, 73",Breakfast bakery
+94,49,,Tea
+95,35,"31, 35",Canned meat seafood
+96,13,"13, 15",Lunch meat
+97,27,"18, 24, 25, 26, 27",Baking supplies decor
+98,36,,Juice nectars
+99,26,"26, 48",Canned fruit applesauce
+100,58,"58, 93",Missing
+101,91,"87, 90, 91, 92",Air fresheners candles
+102,86,,Baby bath body care
+103,58,"56, 58, 59, 60",Ice cream toppings
+104,26,"16, 26, 46, 95",Spices seasonings
+105,26,"18, 24, 25, 26, 27",Doughs gelatins bake mixes
+106,56,"54, 56",Hot dogs bacon sausage
+107,64,"62, 63, 64, 92",Chips pretzels
+108,82,"38, 39, 82, 83",Other creams cheeses
+109,55,"84, 85, 86, 87, 88",Skin care
+110,24,,Pickled goods olives
+111,69,"69, 94",Plates bowls cups flatware
+112,61,"52, 53, 61, 93",Bread
+113,36,,Frozen juice
+114,79,"78, 79",Cleaning products
+115,23,"23, 40",Water seltzer sparkling water
+116,54,,Frozen produce
+117,64,"62, 63, 64, 92",Nuts seeds dried fruit
+118,88,"74, 88, 91, 92",First aid
+119,51,,Frozen dessert
+120,81,,Yogurt
+121,49,"49, 50, 94",Cereal
+122,32,,Meat counter
+123,54,,Packaged vegetables fruits
+124,42,"42, 43",Spirits
+125,92,"62, 63, 64, 92",Trail mix snack mix
+126,72,,Feminine care
+127,72,,Body lotions soap
+128,61,,Tortillas flat bread
+129,52,"52, 53",Frozen appetizers sides
+130,27,"18, 24, 25, 26, 27",Hot cereal pancake mixes
+131,30,,Dry pasta
+132,86,,Beauty
+133,92,"74, 88, 91, 92",Muscles joints pain relief
+134,29,"28, 29",Specialty wines champagnes
